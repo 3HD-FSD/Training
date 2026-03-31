@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+j
+This is my file
+>>>>>>> 27df9ddcc715398caec266c43e3083e9b136c4c8
